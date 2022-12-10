@@ -1,0 +1,13 @@
+# .gitignore
+# img
+
+#.img
+
+# .png
+
+# .jpg
+
+
+* .log
+*.mp4
+password.txt
