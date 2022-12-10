@@ -1,0 +1,20 @@
+# başlık
+## alt başlık
+
+- list 1
+- list 2
+
+* list 1
+* list2
+
+*italic* **bold**  ***bolditalic***
+
+[google gitmek için tıklayın](https://google.com)
+
+! [lorem picsum gorsel](https://picsum.photos/200/300)
+
+- [Markdown Preview](https://marketplace.visualstudio.com/items?itemname=shd101wyy.markdown-preview-enhanced)
+
+'''
+print("hello world")
+'''
